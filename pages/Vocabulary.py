@@ -98,4 +98,4 @@ with tab3:
         else:
             st.error("❌ Try again.")
 with tab4:
-  st.caption(나중에 만들게) 
+  st.caption("나중에 만들게") 
